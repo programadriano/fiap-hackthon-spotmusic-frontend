@@ -1,1 +1,1 @@
-# fiap-hackthon-spotmusic-frontend
+# fiap-hackthon-spotmusic-frontend.
